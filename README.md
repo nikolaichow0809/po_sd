@@ -1,2 +1,2 @@
-# po_sd
-Using linear programming to solve a portfolio optimization problem with stochastic dominance constraints
+# Using linear programming to solve a portfolio optimization problem with stochastic dominance constraints
+In this notebook, we will examine the concept of stochastic dominance and its application in a portfolio optimization problem. Specifically, we will look at a method proposed by Dentcheva and Ruszczyński (2003) that incorporates stochastic dominance constraints into the optimization process. Using Python, we will demonstrate the use of this method with an example from Dentcheva and Ruszczyński (2003).
